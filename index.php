@@ -1,3 +1,5 @@
+// 修正しました！!!
+
 <?php
 session_start();
 require('dbconnect.php');
